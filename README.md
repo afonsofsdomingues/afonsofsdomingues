@@ -23,7 +23,7 @@
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Assembly]
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Prolog]
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
