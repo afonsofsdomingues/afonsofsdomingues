@@ -21,7 +21,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-lightorange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-darkorange?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)
-<img src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/prolog.svg" width="20" height="20"/>
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 My Stats
