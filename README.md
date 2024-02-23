@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, I'm Afonso Domingues! 👋
 
-<!--
-**afonsofsdomingues/afonsofsdomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsofsdomingues/)](https://www.linkedin.com/in/afonsofsdomingues/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 Computer Science and Engineering student @ IST
+ 🧑🏻‍💻 Maker and member of the department of communications @ HackerSchool
+ ⚡ Ambassador @ Magma Studios
+
+---
+
+### About Me
+
+
+
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=C)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![SQL]()
+![R]()
+![Assembly]
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Prolog]
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### My Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonsofsdomingues&show_icons=true)
+
+### Let's Connect
+
+📫 Send me an [email](mailto:afonso.silva.domingues@tecnico.ulisboa.pt) or a message on [Linkdin](https://www.linkedin.com/in/afonso-fs-domingues/).
