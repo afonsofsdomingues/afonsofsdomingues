@@ -9,7 +9,7 @@
 
 ### 💬 About Me
 
-## 🔭 I’m currently working on HSMentor @ HackerSchool
+### 🔭 I’m currently working on HSMentor @ HackerSchool
 
 ### 🛠 Languages and Tools
 
