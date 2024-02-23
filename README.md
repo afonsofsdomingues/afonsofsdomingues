@@ -13,14 +13,14 @@
 
 ### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk)
-![SQL](https://img.shields.io/badge/-SQL-darkblue?style=flat-square&logo=postgresql)
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-darkblue?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 <img src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/prolog.svg" width="20" height="20"/>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
