@@ -25,7 +25,8 @@
 
 ### 📊 My Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonsofsdomingues&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonsofsdomingues&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofsdomingues&theme=tokyonight)
 
 ### 🚀 Let's Connect
 
