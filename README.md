@@ -4,8 +4,8 @@
 
 ---
 
- 🌱 Computer Science and Engineering student @ IST\n
- 🧑🏻‍💻 Maker and member of the department of communications @ HackerSchool\n
+ 🌱 Computer Science and Engineering student @ IST<br>
+ 🧑🏻‍💻 Maker and member of the department of communications @ HackerSchool<br>
  ⚡ Ambassador @ Magma Studios
 
 ---
