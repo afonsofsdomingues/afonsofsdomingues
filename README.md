@@ -1,7 +1,7 @@
 # Hello, I'm Afonso Domingues! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsofsdomingues/)](https://www.linkedin.com/in/afonsofsdomingues/)
-[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/your_github_username)
+[![GitHub followers](https://img.shields.io/github/followers/afonsofsdomingues?label=Follow&style=social)](https://github.com/afonsofsdomingues)
 
  🌱 Computer Science and Engineering student @ IST<br>
  🧑🏻‍💻 Maker and member of the department of communications @ HackerSchool<br>
