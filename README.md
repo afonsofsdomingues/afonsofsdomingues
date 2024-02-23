@@ -1,7 +1,7 @@
 # Hello! 👋
 
 Welcome to my page!
-I'm Afonso Domingues from <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="10"> Lisbon, Portugal.
+I'm Afonso Domingues from <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="15"> Lisbon, Portugal.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsofsdomingues/)](https://www.linkedin.com/in/afonsofsdomingues/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:afonso.silva.domingues@tecnico.ulisboa.pt)](mailto:afonso.silva.domingues@tecnico.ulisboa.pt)
