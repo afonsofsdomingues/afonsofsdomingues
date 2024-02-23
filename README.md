@@ -28,7 +28,3 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonsofsdomingues&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofsdomingues&theme=tokyonight)
-
-### 🚀 Let's Connect
-
-📫 Send me an [email](mailto:afonso.silva.domingues@tecnico.ulisboa.pt) or a message on [Linkedin](https://www.linkedin.com/in/afonso-fs-domingues/).
