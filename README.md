@@ -1,6 +1,7 @@
 # Hello, I'm Afonso Domingues! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsofsdomingues/)](https://www.linkedin.com/in/afonsofsdomingues/)
+[![GitHub followers](https://img.shields.io/github/followers/your_github_username?label=Follow&style=social)](https://github.com/your_github_username)
 
  🌱 Computer Science and Engineering student @ IST<br>
  🧑🏻‍💻 Maker and member of the department of communications @ HackerSchool<br>
@@ -14,8 +15,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![SQL](https://img.shields.io/badge/-Java-red?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=opensdk)
+![SQL](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=postgresql)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
