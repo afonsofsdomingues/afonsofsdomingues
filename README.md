@@ -19,7 +19,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-round&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-darkblue?style=flat-round&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-round&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-orange?style=flat-round&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-darkorange?style=flat-round&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat-round&logo=javascript&logoColor=white)
 <img src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/prolog.svg" width="20" height="20"/>
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-round&logo=#F05032)
