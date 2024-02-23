@@ -20,10 +20,10 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![SQL]()
-![R]()
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Assembly]
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Prolog]
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
