@@ -13,16 +13,16 @@
 
 ### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-round&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-grey?style=flat-round&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-darkred?style=flat-round&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-round&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-darkblue?style=flat-round&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-lightorange?style=flat-round&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-darkorange?style=flat-round&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat-round&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-grey?style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-darkred?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-darkblue?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-lightorange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-darkorange?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)
 <img src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/prolog.svg" width="20" height="20"/>
-![Git](https://img.shields.io/badge/-Git-red?style=flat-round&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 My Stats
 
