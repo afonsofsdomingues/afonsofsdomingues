@@ -34,4 +34,4 @@
 
 ### Let's Connect
 
-📫 Send me an [email](mailto:afonso.silva.domingues@tecnico.ulisboa.pt) or a message on [Linkdin](https://www.linkedin.com/in/afonso-fs-domingues/).
+📫 Send me an [email](mailto:afonso.silva.domingues@tecnico.ulisboa.pt) or a message on [Linkedin](https://www.linkedin.com/in/afonso-fs-domingues/).
