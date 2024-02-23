@@ -1,6 +1,7 @@
 # Hello, I'm Afonso Domingues! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsofsdomingues/)](https://www.linkedin.com/in/afonsofsdomingues/)
+[![Email](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:afonso.silva.domingues@tecnico.ulisboa.pt)](mailto:afonso.silva.domingues@tecnico.ulisboa.pt)
 [![GitHub followers](https://img.shields.io/github/followers/afonsofsdomingues?label=Follow&style=for-the-badge)](https://github.com/afonsofsdomingues)
 
  🌱 Computer Science and Engineering student @ IST<br>
