@@ -13,7 +13,7 @@
 
 ### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=#3776AB)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-round&logo=python&logoColor=#3776AB)
 ![C/C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=C&logoColor=#A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=#FF7800)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=#4169E1)
