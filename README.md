@@ -15,9 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![SQL]()
+![SQL](https://img.shields.io/badge/-Java-red?style=flat-square&logo=postgresql)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)
-![Assembly]
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
