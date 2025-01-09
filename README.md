@@ -9,10 +9,7 @@ I'm Afonso Domingues from <img src="https://hatscripts.github.io/circle-flags/fl
 
 ### 💬 About Me
 
- 🌱 Computer Science and Engineering student @ IST<br>
- 🧑🏻‍💻 Maker @ HackerSchool<br>
-
-### 🔭 I’m currently working on HSMentor @ HackerSchool
+ 🌱 Computer Science Master's student @ ETH Zürich <br>
 
 ### 🛠 Languages and Tools
 
