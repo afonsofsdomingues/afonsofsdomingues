@@ -1,7 +1,4 @@
-# Hello! 👋
-
-Welcome to my page!
-I'm Afonso Domingues from <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="15"> Lisbon, Portugal.
+![](./header.png)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/afonsofsdomingues/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:afonsofsdomingues@gmail.com)](mailto:afonsofsdomingues@gmail.com)
@@ -9,8 +6,7 @@ I'm Afonso Domingues from <img src="https://hatscripts.github.io/circle-flags/fl
 ![](https://komarev.com/ghpvc/?username=afonsofsdomingues&style=for-the-badge)
 
 ### 💬 About Me
-
- 🌱 Computer Science Master's student @ ETH Zürich <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&vCenter=true&width=800&height=25&lines=%F0%9F%93%8D+From+Lisbon%2C+Portugal++%7C+Living+in+Z%C3%BCrich%2C+Switzerland;%F0%9F%8E%93+Computer+Science+Master's+student+%40+ETH+Z%C3%BCrich;%F0%9F%92%A1+Passionate+about+Machine+Learning+%7C+Data+Science)](https://git.io/typing-svg)
 
 ### 🛠 Languages, Libraries and Tools  
 
