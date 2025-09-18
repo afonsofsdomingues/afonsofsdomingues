@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/afonsofsdomingues/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:afonsofsdomingues@gmail.com)](mailto:afonsofsdomingues@gmail.com)
+[![CV](https://img.shields.io/badge/-CV-DAA520?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1SSINKBkIF1pw-DVvT-FKbKrp0Jinqnks/view?usp=sharing)
 [![GitHub followers](https://img.shields.io/github/followers/afonsofsdomingues?label=Follow&style=for-the-badge)](https://github.com/afonsofsdomingues)
 ![](https://komarev.com/ghpvc/?username=afonsofsdomingues&style=for-the-badge)
 
