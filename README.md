@@ -6,8 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/afonsofsdomingues?label=Follow&style=for-the-badge)](https://github.com/afonsofsdomingues)
 ![](https://komarev.com/ghpvc/?username=afonsofsdomingues&style=for-the-badge)
 
-### 💬 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&vCenter=true&width=800&height=25&lines=%F0%9F%93%8D+From+Lisbon%2C+Portugal++%7C+Living+in+Z%C3%BCrich%2C+Switzerland;%F0%9F%8E%93+Computer+Science+Master's+student+%40+ETH+Z%C3%BCrich;%F0%9F%92%A1+Passionate+about+Machine+Learning+%7C+LLM+Alignment)](https://git.io/typing-svg)
+### 💬 About Me F0 9F 8C 8A 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&vCenter=true&width=800&height=25&lines=%F0%9F%93%8D+From+Lisbon%2C+Portugal+%F0%9F%8C%8A++%7C+Living+in+Z%C3%BCrich%2C+Switzerland+⛰️;%F0%9F%8E%93+Computer+Science+Master's+student+%40+ETH+Z%C3%BCrich;%F0%9F%92%A1+Passionate+about+Machine+Learning+%7C+LLM+Safety+%26+Alignment)](https://git.io/typing-svg)
 
 ### 🛠 Languages, Libraries and Tools  
 
