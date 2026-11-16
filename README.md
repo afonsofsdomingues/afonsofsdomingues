@@ -2,12 +2,11 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/afonsofsdomingues/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:afonsofsdomingues@gmail.com)](mailto:afonsofsdomingues@gmail.com)
-[![CV](https://img.shields.io/badge/-CV-DAA520?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/12ko5RMpzGrCrgkaokeU1WALu28kkvOY9/view?usp=sharing)
 [![GitHub followers](https://img.shields.io/github/followers/afonsofsdomingues?label=Follow&style=for-the-badge)](https://github.com/afonsofsdomingues)
 ![](https://komarev.com/ghpvc/?username=afonsofsdomingues&style=for-the-badge)
 
 ### 💬 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&vCenter=true&width=800&height=25&lines=%F0%9F%93%8D+From+Lisbon%2C+Portugal+%F0%9F%8C%8A++%7C+Living+in+Z%C3%BCrich%2C+Switzerland+⛰️;%F0%9F%8E%93+Computer+Science+Master's+student+%40+ETH+Z%C3%BCrich;%F0%9F%92%A1+Passionate+about+Machine+Learning+%7C+AI+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&vCenter=true&width=800&height=25&lines=%F0%9F%93%8D+From+Lisbon%2C+Portugal+%F0%9F%8C%8A++%7C+Living+in+Zurich%2C+Switzerland+⛰️;%F0%9F%8E%93+MSc+in+Computer+Science+%40+ETH+Z%C3%BCrich;%F0%9F%92%A1+Enthusiastic+about+AI+Safety)](https://git.io/typing-svg)
 
 ### 🛠 Languages, Libraries and Tools  
 
@@ -27,7 +26,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-1C86EE?style=for-the-badge&logo=seaborn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/-WandB-1E1E1E?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
